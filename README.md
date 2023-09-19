@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Evan-Tideswell
-- 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently learning Web Development and JavaScript
+- 👀 I’m an IT Engineer and Cyber Security Student.
+- 🌱 I’m currently learning Azure Administration, Cyber Security / Pentesting, and Python Programming.
 
 <!---
 Evan-Tideswell/Evan-Tideswell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
